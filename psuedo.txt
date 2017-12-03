@@ -1,0 +1,9 @@
+Scrape website
+Show articles
+	-can save articles
+		-can save notes in articles
+
+
+Database Structure
+	-Saved articles
+		-Saved notes
